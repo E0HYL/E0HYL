@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m always learning recent advances in the related domains and never limit myself to one way.
 - 👯 I’m looking to collaborate on automated software systems.
 - 💬 Visit my blog at https://e0hyl.github.io/BLOG-OF-E0/.
-- 📫 How to reach me: heyilinge0@gmail.com
+<!--- 📫 How to reach me: heyilinge0@gmail.com
 
 <!--| [![E0's GitHub stats](https://github-readme-stats.vercel.app/api?username=E0HYL&hide=issues,contribs&show_icons=true&theme=material-palenight)](https://github.com/E0HYL/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E0HYL&langs_count=4&layout=compact&theme=material-palenight)](https://github.com/E0HYL/github-readme-stats) |
 |  ----  | ----  |
